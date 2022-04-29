@@ -5,6 +5,7 @@ A converter for connecting a 'qwerty' or 'azerty' USB keyboard to the keyboard p
 
 ![USB CONVERTER](/images/USB-Converter-3D.png)
 
+## Reference of the components used in the design
 
 |Value|	Designator|	Footprint|	Quantity|	Manufacturer Part|	Manufacturer|
 |-----|-----------|-----------|---------|-------------------|-------------|  
@@ -24,4 +25,48 @@ A converter for connecting a 'qwerty' or 'azerty' USB keyboard to the keyboard p
 |LM1117MPX-3.3/NOPB|	U3|	SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR|	1|	LM1117MPX-3.3/NOPB|	TI|
 |USB-A-F-90-H9.5|	USB1|	USB-A-TH_C168725|	1|	USB-A-F-90-H9.5|	LCSC|
 
+Note: This list is given as an indication. Please report any errors to sillycony@mailo.com
 
+## Resource files:
+
+Gerber file 'Gerber_PCB_USB KEYBOARD CONVERTER.zip' -> You can provide this file directly to the PCB manufacturer.
+
+Elf files -> Choose the appropriate file for the type of keyboard used, 'azerty' OR 'qwerty'. The selected file must be programmed in the STM processor.
+
+## Tools:
+
+To program the processor, you will need to use an STLINK V2 type interface. This type of USB interface is easily found for a few dollars.
+
+![USB CONVERTER](/images/STLINK_V2.jpg)
+
+With this dongle, you will use the STM32CubeProgrammer software to program the processor flash.
+
+![USB CONVERTER](/images/STMCubeProgrammer.jpg)
+
+You can download this software free to use at [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html).
+
+All of these tools are very easy to use and shouldn't cause you any problems.
+
+## USB keyboard specific keys.
+
+For both types of keyboard, 'azerty' and 'qwerty', the left modifier keys are used in this way:
+
+|USB Keyboard|	OMEGA Keyboard|
+|-----|-----------|
+|LEFT-SHIFT| SHIFT|
+|LEFT-CTRL| CTRL|
+|LEFT-SYSTEM| GRAPH|
+|LEFT-ALT| CODE|
+|MAJ| CAPS LOCK|
+
+On the 'azerty' type keyboard, the right modifiers key RIGHT-SHIFT and RIGHT-ALTGR are used to obtain characters which are not natively arranged in the same way as on the 'qwerty' keyboard such as the character '\\' for example.
+
+Once the converter has been produced and programmed, all you have to do is insert it into the keyboard connector of the Omega board and connect a USB keyboard to it.
+
+![USB CONVERTER](/images/USBKeyboardtoOMEGA.jpg)
+
+ However, be careful when inserting to place the converter well in the center of the OMEGA connector otherwise the pins may be shifted. This is, in principle, not dangerous for either the Omega board or the converter, but will prevent the computer from starting.
+ 
+Enjoy and do not hesitate to let me know of your difficulties in assembly or use. This converter can also be adapted to other types of vintage computers other than Omega.
+
+## sillycony@mailo.com
