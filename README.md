@@ -4,3 +4,24 @@ A converter for connecting a 'qwerty' or 'azerty' USB keyboard to the keyboard p
 **Released under the cc-by-sa-4.0 license for non-commercial use**
 
 ![USB CONVERTER](/images/USB-Converter-3D.png)
+
+
+|Value|	Designator|	Footprint|	Quantity|	Manufacturer Part|	Manufacturer|
+|-----|-----------|-----------|---------|-------------------|-------------|  
+|3.3uF|	C1|	CAP-SMD_L3.5-W2.8-R-RD|	1|	T491B335K016AT|	KEMET|
+|100uF|	C3|	CAP-SMD_L3.5-W2.8-R-RD|	1|	TAJB107M010RNJ|	AVX|
+|10uF|	C6|	C0805|	1|	0805F106M160NT|	FH|
+|100nF|	C7,C4,C5,C2|	C0805|	4|	CL21B104KCFNNNE|	SAMSUNG|
+|2510S-4P|	CN1|	CONN-TH_4P-P2.54_A2510S-4P|	1|	2510S-4P|	Shenzhen Cankemeng|
+|DS1023-2*8SF11|	H1|	HDR-TH_16P-P2.54-V-M-R2-C8-S2.54|	1|	DS1023-2*8SF11|	CONNFLY|
+|17-21/G6C-FM1N2B/3T|	LED1|	LED0805-RD|	1|	17-21/G6C-FM1N2B/3T|	EVERLIGHT|
+|330R|	R1|	R0805|	1|	TC0525B3300T5E|	UniOhm|
+|1Ω|	R2|	R1206|	1|	RT1206BRD071RL|	YAGEO|
+|1K|	R3|	R0805|	1|	0805W8F1001T5E|	UniOhm|
+|100M|	R4|	R0805|	1|	0805W8F1006T5E|	Uniroyal Elec|
+|CH9350L|	U1|	LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL|	1|	CH9350L|	WCH|
+|STM32G030C8T6|	U2|	LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL|	1|	STM32G030C8T6|	STMicroelectronics|
+|LM1117MPX-3.3/NOPB|	U3|	SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR|	1|	LM1117MPX-3.3/NOPB|	TI|
+|USB-A-F-90-H9.5|	USB1|	USB-A-TH_C168725|	1|	USB-A-F-90-H9.5|	LCSC|
+
+
