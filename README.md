@@ -3,4 +3,4 @@ A converter for connecting a 'qwerty' or 'azerty' USB keyboard to the keyboard p
 
 **Released under the cc-by-sa-4.0 license**
 
-![USB CONVERTER](/images/USB-KEYBOARD-3D.png)
+![USB CONVERTER](/images/USB-Converter-3D.png)
