@@ -73,7 +73,7 @@ Enjoy and do not hesitate to let me know of your difficulties in assembly or use
 
 Konkotgit, https://github.com/konkotgit/JFF, created an MSX1 compatible board :
 
-![Konkotgit](/Exeamples of use/jff_r_1_1_01_s.jpg)
+![Konkotgit](/Other_implementations/jff_r_1_1_01_s.jpg)
 
 Due to the different design compared to the OMEGA card, Konkotgit has worked out a new implementation of this adapter which uses the same programming 'elf' file :
 
