@@ -69,6 +69,15 @@ Once the converter has been produced and programmed, all you have to do is inser
  
 Enjoy and do not hesitate to let me know of your difficulties in assembly or use. This converter can also be adapted to other types of vintage computers other than Omega.
 
+## Examples of adaptation for other MSX boards.
+
+Konkotgit, https://github.com/konkotgit/JFF, created an MSX1 compatible board :
+
+![Konkotgit](/Exeamples of use/jff_r_1_1_01_s.jpg)
+
+Due to the different design compared to the OMEGA card, Konkotgit has worked out a new implementation of this adapter which uses the same programming 'elf' file :
+
+![Konkotgit](/Exeamples of use/usb_keyboard_adapter.jpg)
 
 ## IMPORTANT UPDATE 2023-02-27.
 
