@@ -74,6 +74,6 @@ Enjoy and do not hesitate to let me know of your difficulties in assembly or use
 
 - Fixed 'Esc' key code on QWERTY (US) keyboard.
 - Addition of support management for *TWO SIMULTANEOUS KEYS* pressed for both keyboards (FR) & (US).
-- 
+
 
 ## sillycony@mailo.com
