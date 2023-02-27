@@ -73,6 +73,7 @@ Enjoy and do not hesitate to let me know of your difficulties in assembly or use
 ## IMPORTANT UPDATE 2023-02-27.
 
 - Fixed 'Esc' key code on QWERTY (US) keyboard.
-- Addition of support management for *TWO SIMULTANEOUS KEYS* pressed.
+- Addition of support management for *TWO SIMULTANEOUS KEYS* pressed for both keyboards (FR) & (US).
+- 
 
 ## sillycony@mailo.com
