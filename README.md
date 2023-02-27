@@ -69,4 +69,10 @@ Once the converter has been produced and programmed, all you have to do is inser
  
 Enjoy and do not hesitate to let me know of your difficulties in assembly or use. This converter can also be adapted to other types of vintage computers other than Omega.
 
+
+## IMPORTANT UPDATE 2023-02-27.
+
+- Fixed 'Esc' key code on QWERTY (US) keyboard.
+- Addition of support management for *TWO SIMULTANEOUS KEYS* pressed.
+
 ## sillycony@mailo.com
