@@ -75,7 +75,7 @@ Konkotgit, https://github.com/konkotgit/JFF, created an MSX1 compatible board :
 
 ![Konkotgit](/Other_implementations/jff_r_1_1_01_s.jpg)
 
-Due to the different design compared to the OMEGA card, Konkotgit has worked out a new implementation of this adapter which uses the same programming 'elf' file :
+Due to the different design compared to the OMEGA board, Konkotgit has worked out a new implementation of this adapter which uses the same programming 'elf' file :
 
 ![Konkotgit](/Other_implementations/usb_keyboard_adapter.jpg)
 
