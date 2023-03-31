@@ -84,5 +84,8 @@ Due to the different design compared to the OMEGA board, Konkotgit has worked ou
 - Fixed 'Esc' key code on QWERTY (US) keyboard.
 - Addition of support management for *TWO SIMULTANEOUS KEYS* pressed for both keyboards (FR) & (US).
 
+## IMPORTANT UPDATE 2023-03-31.
+
+- fixed a potential metastability issue on column outputs to the MSX machine.
 
 ## sillycony@mailo.com
