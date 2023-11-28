@@ -99,9 +99,14 @@ This is not stated in the nomenclature but a 10K resistor for R4 should even be 
 
 Jordi also proved the feasibility of connecting this interface to a wireless USB keyboard. This is not specified in its test, but I assume that it is a bluetooth keyboard
 
-![Jordi Solís](/Other_implementations/USB-KEYBOARD-Jordi Solís.png)
+![Jordi Solís](/Other_implementations/USB_KEYBOARD_Jordi_Solís.png)
+
+Testing a wireless keyboard:
+
+![Jordi Solís](/Other_implementations/WIRELESS_USB_KEYBOARD_Jordi_Solís.png)
 
 Jordi Solís also has an interesting GitHub page for MSX 'lovers': https://github.com/capsule5000 
-(I guess this is Jori's page, based on the information I was able to find)
+(I guess this is Jordi's page, based on the information I was able to find)
+
 
 ## sillycony@mailo.com
