@@ -90,5 +90,18 @@ Due to the different design compared to the OMEGA board, Konkotgit has worked ou
 - fixed a potential metastability issue on column outputs to the MSX machine.
 (Thanks to Konrad)
 
+## Another 'example' of making this USB converter.
+
+Jordi Solís, https://msxmakers.design.blog/proyectos/omega-usb-keyb-ctrl, gave a particularly well-detailed description of the creation of his copy. 
+
+And thanks to him for correcting the nomenclature of the components, namely R4 which was referenced as being a 100M, when in fact it is a 100K at most. 
+This is not stated in the nomenclature but a 10K resistor for R4 should even be sufficient. 
+
+Jordi also proved the feasibility of connecting this interface to a wireless USB keyboard. This is not specified in its test, but I assume that it is a bluetooth keyboard
+
+![Jordi Solís](/Other_implementations/USB-KEYBOARD-Jordi Solís.png)
+
+Jordi Solís also has an interesting GitHub page for MSX 'lovers': https://github.com/capsule5000 
+(I guess this is Jori's page, based on the information I was able to find)
 
 ## sillycony@mailo.com
