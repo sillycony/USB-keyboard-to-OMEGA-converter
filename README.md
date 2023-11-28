@@ -90,7 +90,7 @@ Due to the different design compared to the OMEGA board, Konkotgit has worked ou
 - fixed a potential metastability issue on column outputs to the MSX machine.
 (Thanks to Konrad)
 
-## Another 'example' of making this USB converter.
+## Another 'example' of making this USB converter 2023-11-28.
 
 Jordi Solís, https://msxmakers.design.blog/proyectos/omega-usb-keyb-ctrl, gave a particularly well-detailed description of the creation of his copy. 
 
